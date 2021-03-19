@@ -55,7 +55,7 @@
 - Collins コウビルド英英辞典 改訂 第5版 (COBUILD5)  
   [ref](http://ebstudio.info/home/CobuildConv/index.html)
 - E-DIC 和英・和英 第2版
-
+  [edic2conv](https://bitbucket.org/rubyu/edic2conv/downloads/) [edic2epwing](https://github.com/rubyu/edic2epwing)
 
 ## epwing未変換
 - オックスフォードワードパワー英英辞典 第4版 (OWPD4)
