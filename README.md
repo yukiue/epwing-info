@@ -72,4 +72,5 @@
 ### epwing未変換
 - オックスフォードワードパワー英英辞典 第4版 (OWPD4)
 - オックスフォード現代英英辞典 第9版 (OALD9)
+  [reference](https://github.com/wingkinl/OALD9ExtractTools)
 - Bookshelf Basic 2.0
