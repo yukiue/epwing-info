@@ -34,43 +34,43 @@
   - 漢字源
   - 全訳用例古語辞典
 
-## free
-- Jim Breen's EDICT2 和英・英和辞書
+## Free
+- Jim Breen's EDICT2 和英・英和辞書  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se369320.html)
-- PDD百科辞書
+- PDD百科辞書  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se312764.html)
-- WordNet 2.0
+- WordNet 2.0  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se323658.html)
-- 口語訳聖書(新約1954年版、旧約1955年版)
+- 口語訳聖書(新約1954年版、旧約1955年版)  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se451572.html)
-- Moby Thesaurus II
+- Moby Thesaurus II  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se377050.html)
-- Roget's Thesaurus of English Words and Phrases (1911-ed.)
+- Roget's Thesaurus of English Words and Phrases (1911-ed.)  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se338074.html)
-- Webster's Revised Unabridged Dictionary (1913-ed.)
+- Webster's Revised Unabridged Dictionary (1913-ed.)  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se334004.html)
-- Computer Dictionary
+- Computer Dictionary  
   [DL Link](https://www.vector.co.jp/soft/data/writing/se463395.html)
-- wikipedia
+- wikipedia  
   [DL Link](https://ja.osdn.net/projects/boookends/)
 
 
 ## その他
 ### epwing変換済み
-- 英辞郎 第五版
+- 英辞郎 第五版  
   [reference](http://blog.livedoor.jp/hakin/archives/51777910.html)
-- オックスフォード現代英英辞典 第7版 (OALD7)
+- オックスフォード現代英英辞典 第7版 (OALD7)  
   [reference](http://green.ribbon.to/~ikazuhiro/dic/oald7-fpw.html)
-- ロングマン現代英英辞典 4訂増補版 (LDOCE4v2)
+- ロングマン現代英英辞典 4訂増補版 (LDOCE4v2)  
   [reference](https://web.archive.org/web/20080520053249/http://xelloss.dnsalias.net/~shunichi/pukiwiki/index.php?%A5%BD%A5%D5%A5%C8%A5%A6%A5%A7%A5%A2%2FEPWING%B7%C1%BC%B0%CA%D1%B4%B9%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8%20for%20LDOCE4v2)
-- Collins コウビルド英英辞典 改訂 第5版 (COBUILD5)
+- Collins コウビルド英英辞典 改訂 第5版 (COBUILD5)  
   [reference](http://ebstudio.info/home/CobuildConv/index.html)
-- E-DIC 和英・和英 第2版
-  [edic2conv](https://bitbucket.org/rubyu/edic2conv/downloads/)
+- E-DIC 和英・和英 第2版  
+  [edic2conv](https://bitbucket.org/rubyu/edic2conv/downloads/)  
   [edic2epwing](https://github.com/rubyu/edic2epwing)
 
 ### epwing未変換
-- オックスフォードワードパワー英英辞典 第4版 (OWPD4)
-- オックスフォード現代英英辞典 第9版 (OALD9)
+- オックスフォードワードパワー英英辞典 第4版 (OWPD4)  
+- オックスフォード現代英英辞典 第9版 (OALD9)  
   [reference](https://github.com/wingkinl/OALD9ExtractTools)
 - Bookshelf Basic 2.0
