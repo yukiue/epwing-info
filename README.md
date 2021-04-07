@@ -69,11 +69,11 @@
 - 英辞郎 第五版  
   [reference](http://blog.livedoor.jp/hakin/archives/51777910.html)
 - オックスフォード現代英英辞典 第7版 (OALD7)  
-  [reference](http://green.ribbon.to/~ikazuhiro/dic/oald7-fpw.html)
+  [oald7-fpw](http://green.ribbon.to/~ikazuhiro/dic/oald7-fpw.html)
 - ロングマン現代英英辞典 4訂増補版 (LDOCE4v2)  
-  [reference](https://web.archive.org/web/20080520053249/http://xelloss.dnsalias.net/~shunichi/pukiwiki/index.php?%A5%BD%A5%D5%A5%C8%A5%A6%A5%A7%A5%A2%2FEPWING%B7%C1%BC%B0%CA%D1%B4%B9%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8%20for%20LDOCE4v2)
+  [ldoce4v2-fpw](https://web.archive.org/web/20080520053249/http://xelloss.dnsalias.net/~shunichi/pukiwiki/index.php?%A5%BD%A5%D5%A5%C8%A5%A6%A5%A7%A5%A2%2FEPWING%B7%C1%BC%B0%CA%D1%B4%B9%A5%B9%A5%AF%A5%EA%A5%D7%A5%C8%20for%20LDOCE4v2)
 - Collins コウビルド英英辞典 改訂 第5版 (COBUILD5)  
-  [reference](http://ebstudio.info/home/CobuildConv/index.html)
+  [CobuildConv](http://ebstudio.info/home/CobuildConv/index.html)
 - E-DIC 和英・和英 第2版  
   [edic2conv](https://bitbucket.org/rubyu/edic2conv/downloads/)  
   [edic2epwing](https://github.com/rubyu/edic2epwing)
@@ -81,5 +81,5 @@
 ### epwing未変換
 - オックスフォードワードパワー英英辞典 第4版 (OWPD4)  
 - オックスフォード現代英英辞典 第9版 (OALD9)  
-  [reference](https://github.com/wingkinl/OALD9ExtractTools)
+  [OALD9ExtractTools](https://github.com/wingkinl/OALD9ExtractTools)
 - Bookshelf Basic 2.0
