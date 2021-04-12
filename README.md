@@ -77,7 +77,7 @@
 - E-DIC 和英・和英 第2版  
   [edic2conv](https://bitbucket.org/rubyu/edic2conv/downloads/)  
   [edic2epwing](https://github.com/rubyu/edic2epwing)
-- 日外コンピュータ用語辞典 第3版 英和・和英/用例・文例
+- 日外コンピュータ用語辞典 第3版 英和・和英/用例・文例  
   [dessed](http://hp.vector.co.jp/authors/VA021723/dessed/)
 ### epwing未変換
 - オックスフォードワードパワー英英辞典 第4版 (OWPD4)  
